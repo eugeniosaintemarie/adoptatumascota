@@ -23,12 +23,6 @@ export function Footer() {
             </span>
             <span>mascotas que encontraron un hogar</span>
           </p>
-          <p className="text-sm text-foreground text-center sm:text-left">
-            Buscás un nuevo integrante para tu familia?{" "}
-            <span className="text-[#4CAF50] font-medium">
-              Explorá las publicaciones y contactá a los cuidadores.
-            </span>
-          </p>
         </div>
       </div>
       <div className="py-6 bg-background">
@@ -36,7 +30,7 @@ export function Footer() {
           <p>
             Adopta Tu Mascota |{" "}
             <a
-              href="https://docs.google.com/forms/d/e/1FAIpQLSeL7DnKWx8JigHW6-PIbsvAN7SbXmKwKROYLjAHnmdt0e-J7A/viewform"
+              href="https://docs.google.com/forms/d/e/1FAIpQLSe0agQbhdhT339ZVmKneUQvFNWzXLGTKhfmpLoFZChIohs8aA/viewform"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:underline italic"
